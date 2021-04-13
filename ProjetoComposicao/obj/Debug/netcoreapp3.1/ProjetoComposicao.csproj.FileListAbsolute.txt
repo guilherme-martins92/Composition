@@ -1,0 +1,13 @@
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoComposicao\ProjetoComposicao\bin\Debug\netcoreapp3.1\ProjetoComposicao.exe
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoComposicao\ProjetoComposicao\bin\Debug\netcoreapp3.1\ProjetoComposicao.deps.json
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoComposicao\ProjetoComposicao\bin\Debug\netcoreapp3.1\ProjetoComposicao.runtimeconfig.json
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoComposicao\ProjetoComposicao\bin\Debug\netcoreapp3.1\ProjetoComposicao.runtimeconfig.dev.json
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoComposicao\ProjetoComposicao\bin\Debug\netcoreapp3.1\ProjetoComposicao.dll
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoComposicao\ProjetoComposicao\bin\Debug\netcoreapp3.1\ProjetoComposicao.pdb
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoComposicao\ProjetoComposicao\obj\Debug\netcoreapp3.1\ProjetoComposicao.csprojAssemblyReference.cache
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoComposicao\ProjetoComposicao\obj\Debug\netcoreapp3.1\ProjetoComposicao.AssemblyInfoInputs.cache
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoComposicao\ProjetoComposicao\obj\Debug\netcoreapp3.1\ProjetoComposicao.AssemblyInfo.cs
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoComposicao\ProjetoComposicao\obj\Debug\netcoreapp3.1\ProjetoComposicao.csproj.CoreCompileInputs.cache
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoComposicao\ProjetoComposicao\obj\Debug\netcoreapp3.1\ProjetoComposicao.dll
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoComposicao\ProjetoComposicao\obj\Debug\netcoreapp3.1\ProjetoComposicao.pdb
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\ProjetoComposicao\ProjetoComposicao\obj\Debug\netcoreapp3.1\ProjetoComposicao.genruntimeconfig.cache
